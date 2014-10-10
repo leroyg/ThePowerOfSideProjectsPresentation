@@ -1,5 +1,2 @@
-
-Building-an-SPA-Framework
-=========================
-
-A talk I gave at Houston.js
+http://matthiasak.github.io/ThePowerOfSideProjectsPresentation
+---
